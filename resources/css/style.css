@@ -8,6 +8,10 @@ html, body {
     text-align: center;
 }
 
+.container {
+    margin: 0 auto;
+}
+
 .header h1 {
     font-size: 50px;
 }
@@ -15,4 +19,14 @@ html, body {
 .header p {
     font-size: 16px;
     color: aquamarine;
+}
+
+.guide h1{
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.guide p{
+    font-size: 21px;
+    color: gray;
 }
